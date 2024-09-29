@@ -15,3 +15,8 @@ from pyngrok import ngrok
 ```
 !streamlit run app.py
 ```
+
+## url streamlit
+```
+https://afraid-poems-join.loca.lt/
+```
