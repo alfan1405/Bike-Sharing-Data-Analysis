@@ -44,3 +44,7 @@ st.header("Conclusion")
 st.write("- Poor weather conditions, such as rain or snow, significantly decrease bike rentals. This is likely due to safety concerns and discomfort associated with cycling in adverse weather.")
 st.write("- Bike rentals tend to be higher on weekdays, suggesting that a substantial portion of users utilize bikes for commuting purposes or daily errands.")
 
+plt.tight_layout()
+st.pyplot(fig)
+
+st.caption('Copyright (c) Alfan Alfiansyah 2024')
